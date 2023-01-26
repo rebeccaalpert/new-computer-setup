@@ -5,6 +5,7 @@ This repo installs the following:
 * [yarn](https://classic.yarnpkg.com/en/)
 * [thefuck](https://github.com/nvbn/thefuck)
 * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [GitHub CLI](https://cli.github.com/)
 
 ## Useful resources I haven't added to the script
 * [VSCode](https://code.visualstudio.com/docs?dv=osx)
