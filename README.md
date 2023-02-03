@@ -19,3 +19,7 @@ This repo installs the following:
 * [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
+
+# Browser Plugins
+* [axe](https://www.deque.com/axe/browser-extensions/)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
