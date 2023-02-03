@@ -1,7 +1,5 @@
 # new-computer-setup
 
-I have not verified that VSCode and Homebrew installation work as intended, but I have verified that the script will continue running if you have the files already. I would like to refine this script the next time I need to set up a new computer. However, the rest of the script should work as intended.
-
 This repo installs the following:
 * [VSCode](https://code.visualstudio.com/docs?dv=osx)
 * [Homebrew](https://brew.sh/)
@@ -20,6 +18,6 @@ This repo installs the following:
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
 
-# Browser Plugins
+## Browser Plugins
 * [axe](https://www.deque.com/axe/browser-extensions/)
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)

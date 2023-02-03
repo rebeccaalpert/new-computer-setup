@@ -9,9 +9,10 @@ HOMEBREW="/opt/homebrew"
 
 if [ "$(uname)" == "Darwin" ]; then
     if [ ! -e "$VSCODE" ]; then
-        mkdir -p $HOME/Applications
-        curl -o $VSCODE https://code.visualstudio.com/sha/download\?build=stable&os=darwin-universal 
-        open $VSCODE
+        curl -L "https://update.code.visualstudio.com/latest/darwin/stable" -o vscode.zip
+        unzip vscode.zip
+        mv Visual\ Studio\ Code.app /Applications
+        rm vscode.zip
     else
         echo "Already downloaded VSCode"
     fi 
